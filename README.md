@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @grimreaper245
 - 👀 I’m interested in java and java game dev
 - 🌱 I’m currently learning java, java game dev and javascript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me - you cant
 
 <!---
